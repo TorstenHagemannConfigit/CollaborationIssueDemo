@@ -19,7 +19,7 @@
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDText" uuid="_GOiR0Fc7EeWo-40Qyxiobw"
         name="Text2" cursorsUsingMeForColor="_WWlTcFc7EeWo-40Qyxiobw"
-        text="Demo" fontSize="16">
+        text="Demo 11" fontSize="16">
       <translation uuid="_VhruIE62Eei0NfpTrkQidw" x="8.0"
           z="22.0"/>
       <color href="../product_model.xml#N65572"/>
